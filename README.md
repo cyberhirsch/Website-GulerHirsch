@@ -13,7 +13,7 @@ A minimalist, image-centric theme for photographers and artists. Originally a Ga
   <img src="public/img/clay_astro_dark.png" width="48%" alt="Dark Mode" style="border-radius: 10px; border: 1px solid #333;">
 </p>
 
-Check out the [Live Demo](https://clay-astro-theme.netlify.app).
+Check out the [Live Demo](https://clay-astro-theme.netlify.app) or view on the [Astro Themes Portal](https://portal.astro.build/themes/clay/).
 
 ## Features
 

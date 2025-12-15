@@ -33,7 +33,7 @@
     position: absolute;
     width: 20px;
     height: 1px;
-    background-color: #000000fb;
+    background-color: var(--color-base);
     border-radius: 4px;
     transition: transform 0.15s ease;
 }
