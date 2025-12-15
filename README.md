@@ -105,7 +105,9 @@ The output will be in the `dist/` directory, ready for deployment.
 │   │   ├── content.css     # Typography for markdown content
 │   │   └── vars.css        # CSS Variables (Colors, Fonts)
 │   └── templates/          # Templates for different content types
-└── astro.config.mjs        # Astro configuration
+├── astro.config.mjs        # Astro configuration
+├── postcss.config.cjs      # PostCSS configuration
+└── tsconfig.json           # TypeScript configuration
 ```
 
 ---
