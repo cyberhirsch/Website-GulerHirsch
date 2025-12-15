@@ -163,12 +163,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Framework**: [Astro](https://astro.build)
 - **CMS**: [Decap CMS](https://decapcms.org/)
 
----
 
-## ⭐ Show Your Support
-
-If you like this theme, please give it a ⭐ on [GitHub](https://github.com/your-username/clay-astro-theme)!
-
----
 
 <p align="center">Made with ❤️ using Astro</p>
