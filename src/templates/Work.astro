@@ -32,7 +32,7 @@ const { title, description, thumbnail } = entry.data;
 
     {thumbnail && (
       <div class="post-content-image">
-        <img src={thumbnail.startsWith('/') ? `${import.meta.env.BASE_URL}${thumbnail.slice(1)}` : thumbnail} class="kg-image" alt={title} />
+        <img src={thumbnail.startsWith('/') ? `${import.meta.env.BASE_URL}/${thumbnail.slice(1)}`.replace(/\/+/g, '/') : thumbnail} class="kg-image" alt={title} />
       </div>
     )}
 

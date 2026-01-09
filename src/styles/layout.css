@@ -134,7 +134,18 @@ footer.site-foot a {
     color: var(--color-base);
 }
 
-/* Site Navigation */
+/* Post Feed */
+.post-feed {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -1rem; /* Offset the margin of cards */
+}
+
+@media (max-width: 600px) {
+    .post-feed {
+        margin: 0;
+    }
+}
 .site-head {
     position: relative;
     z-index: 300;

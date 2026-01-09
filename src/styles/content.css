@@ -69,6 +69,7 @@ production stylesheet in assets/built/screen.css using gulp dev
   font-size: 4.2rem;
   color: var(--color-base);
 }
+
 @media (max-width: 500px) {
   .page-head-title {
     font-size: 2rem;
@@ -81,6 +82,7 @@ production stylesheet in assets/built/screen.css using gulp dev
   font-size: 2.2rem;
   line-height: 1.35em;
 }
+
 @media (max-width: 500px) {
   .page-head-description {
     font-size: 1.6rem;
@@ -113,6 +115,7 @@ production stylesheet in assets/built/screen.css using gulp dev
   margin: 0 auto;
   /* padding: 3vw 0; */
 }
+
 .post-content-header {
   display: flex;
   flex-direction: column;
@@ -133,6 +136,7 @@ production stylesheet in assets/built/screen.css using gulp dev
   text-align: center;
   opacity: 0.5;
 }
+
 @media (max-width: 500px) {
   .post-content-excerpt {
     font-size: 1.8rem;
@@ -140,13 +144,17 @@ production stylesheet in assets/built/screen.css using gulp dev
 }
 
 .post-content-image {
-  margin: 4vw 0;
+  margin: 4vw auto;
   position: relative;
-  width: 75vw;
-  min-width: 100%;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-  transform: translateX(calc(50vw - 50%));
+  max-width: 900px;
+  width: 100%;
+}
+
+.post-content-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
 }
 
 .contact-form-image {
@@ -159,10 +167,12 @@ production stylesheet in assets/built/screen.css using gulp dev
   margin-right: calc(50% - 50vw);
   transform: translateX(calc(50vw - 50%));
 }
+
 .post-content-body {
   font-size: 1.9rem;
   line-height: 1.65em;
 }
+
 @media (max-width: 500px) {
   .post-content-body {
     font-size: 1.7rem;
@@ -332,7 +342,11 @@ production stylesheet in assets/built/screen.css using gulp dev
 }
 
 /* 404 page */
-.good-bye-page { display: flex; flex-direction: column; align-items: center; }
+.good-bye-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 
 /* thank you page */
@@ -344,8 +358,14 @@ production stylesheet in assets/built/screen.css using gulp dev
 
 
 /* Image boarder */
-.kg-image { border-radius: 10px; }
+.kg-image {
+  border-radius: 10px;
+}
 
-img.gatsby-resp-image-image { border-radius: 10px !important;}
+img.gatsby-resp-image-image {
+  border-radius: 10px !important;
+}
 
-img {border-radius: 10px;}
+img {
+  border-radius: 10px;
+}
