@@ -1,11 +1,9 @@
 ---
 templateKey: contact-page
-thumbnail: /img/clay-images-20.jpg
+thumbnail: /img/stratum.jpg
 date: 2023-03-03T06:39:40.924Z
 title: Contact
 description: Kontaktieren Sie Güler Hirsch für Anfragen zu Werken und Zusammenarbeiten.
 number: 5
-pagetype:
-  - main
-featuredimage: /img/clay-images-20.jpg
+featuredimage: /img/stratum.jpg
 ---

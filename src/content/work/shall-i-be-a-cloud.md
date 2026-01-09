@@ -11,15 +11,14 @@ number: 4
 
 Inspired by the lightness and fluidity of clouds, this series challenges the perceived weight of clay.
 
-![Cloud 1](/img/galleries/cloud/cloud_01.jpg)
+![Cloud 1](/Website-GulerHirsch/img/galleries/cloud/cloud_01.jpg)
 
-![Cloud 2](/img/galleries/cloud/cloud_02.jpg)
+![Cloud 2](/Website-GulerHirsch/img/galleries/cloud/cloud_02.jpg)
 
-![Cloud 3](/img/galleries/cloud/cloud_03.jpg)
+![Cloud 3](/Website-GulerHirsch/img/galleries/cloud/cloud_03.jpg)
 
-![Cloud 4](/img/galleries/cloud/cloud_04.jpg)
+![Cloud 4](/Website-GulerHirsch/img/galleries/cloud/cloud_04.jpg)
 
-![Cloud 5](/img/galleries/cloud/cloud_05.jpg)
+![Cloud 5](/Website-GulerHirsch/img/galleries/cloud/cloud_05.jpg)
 
-![Cloud 6](/img/galleries/cloud/cloud_06.jpg)
-
+![Cloud 6](/Website-GulerHirsch/img/galleries/cloud/cloud_06.jpg)

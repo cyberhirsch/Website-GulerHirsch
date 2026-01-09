@@ -11,31 +11,30 @@ number: 3
 
 An exploration of layered textures and forms, reflecting the geological processes that shape our world.
 
-![Stratum 1](/img/galleries/stratum/stratum_01.jpg)
+![Stratum 1](/Website-GulerHirsch/img/galleries/stratum/stratum_01.jpg)
 
-![Stratum 2](/img/galleries/stratum/stratum_02.jpg)
+![Stratum 2](/Website-GulerHirsch/img/galleries/stratum/stratum_02.jpg)
 
-![Stratum 3](/img/galleries/stratum/stratum_03.jpg)
+![Stratum 3](/Website-GulerHirsch/img/galleries/stratum/stratum_03.jpg)
 
-![Stratum 4](/img/galleries/stratum/stratum_04.jpg)
+![Stratum 4](/Website-GulerHirsch/img/galleries/stratum/stratum_04.jpg)
 
-![Stratum 5](/img/galleries/stratum/stratum_05.jpg)
+![Stratum 5](/Website-GulerHirsch/img/galleries/stratum/stratum_05.jpg)
 
-![Stratum 6](/img/galleries/stratum/stratum_06.jpg)
+![Stratum 6](/Website-GulerHirsch/img/galleries/stratum/stratum_06.jpg)
 
-![Stratum 7](/img/galleries/stratum/stratum_07.jpg)
+![Stratum 7](/Website-GulerHirsch/img/galleries/stratum/stratum_07.jpg)
 
-![Stratum 8](/img/galleries/stratum/stratum_08.jpg)
+![Stratum 8](/Website-GulerHirsch/img/galleries/stratum/stratum_08.jpg)
 
-![Stratum 9](/img/galleries/stratum/stratum_09.jpg)
+![Stratum 9](/Website-GulerHirsch/img/galleries/stratum/stratum_09.jpg)
 
-![Stratum 10](/img/galleries/stratum/stratum_10.jpg)
+![Stratum 10](/Website-GulerHirsch/img/galleries/stratum/stratum_10.jpg)
 
-![Stratum 11](/img/galleries/stratum/stratum_11.jpg)
+![Stratum 11](/Website-GulerHirsch/img/galleries/stratum/stratum_11.jpg)
 
-![Stratum 12](/img/galleries/stratum/stratum_12.jpg)
+![Stratum 12](/Website-GulerHirsch/img/galleries/stratum/stratum_12.jpg)
 
-![Stratum 13](/img/galleries/stratum/stratum_13.jpg)
+![Stratum 13](/Website-GulerHirsch/img/galleries/stratum/stratum_13.jpg)
 
-![Stratum 14](/img/galleries/stratum/stratum_14.jpg)
-
+![Stratum 14](/Website-GulerHirsch/img/galleries/stratum/stratum_14.jpg)

@@ -11,13 +11,12 @@ number: 2
 
 A collection of ceramic vases exploring the intersection of traditional techniques and modern aesthetics.
 
-![Vase 1](/img/galleries/vases/vases_01.jpg)
+![Vase 1](/Website-GulerHirsch/img/galleries/vases/vases_01.jpg)
 
-![Vase 2](/img/galleries/vases/vases_02.jpg)
+![Vase 2](/Website-GulerHirsch/img/galleries/vases/vases_02.jpg)
 
-![Vase 3](/img/galleries/vases/vases_03.jpg)
+![Vase 3](/Website-GulerHirsch/img/galleries/vases/vases_03.jpg)
 
-![Vase 4](/img/galleries/vases/vases_04.jpg)
+![Vase 4](/Website-GulerHirsch/img/galleries/vases/vases_04.jpg)
 
-![Vase 5](/img/galleries/vases/vases_05.jpg)
-
+![Vase 5](/Website-GulerHirsch/img/galleries/vases/vases_05.jpg)
