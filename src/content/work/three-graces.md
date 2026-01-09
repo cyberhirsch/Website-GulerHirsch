@@ -8,6 +8,7 @@ pagetype:
   - main
 number: 5
 ---
+
 Three vases represent the Charites of Greek mythology—goddesses of beauty, grace, and abundance. 
 
 **Aglaea**, "Shining," symbolizes elegance with golden accents. 
@@ -15,3 +16,10 @@ Three vases represent the Charites of Greek mythology—goddesses of beauty, gra
 **Thalia**, "Blooming," has floral motifs symbolizing growth and vitality. 
 
 Together, they embody radiance, joy, and growth.
+
+![3 Graces 1](/img/galleries/graces/graces_01.jpg)
+
+![3 Graces 2](/img/galleries/graces/graces_02.jpg)
+
+![3 Graces 3](/img/galleries/graces/graces_03.jpg)
+
