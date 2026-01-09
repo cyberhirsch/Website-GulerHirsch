@@ -11,13 +11,13 @@ const title = post.data.title;
 const isLarge = count % 3 === 0;
 
 // Construct background image style
-const finalThumbnail = thumbnail && thumbnail.startsWith('/') ? `${import.meta.env.BASE_URL}${thumbnail.slice(1)}` : thumbnail;
+const finalThumbnail = thumbnail && thumbnail.startsWith('/') ? `${import.meta.env.BASE_URL}/${thumbnail.slice(1)}`.replace(/\/+/g, '/') : thumbnail;
 const bgStyle = thumbnail ? `background-image: url(${finalThumbnail});` : '';
 const postClass = `post-card ${isLarge ? 'post-card-large' : ''} ${thumbnail ? 'with-image' : 'no-image'} post`;
 ---
 
 <article class={postClass} style={bgStyle}>
-  <a href={`${import.meta.env.BASE_URL}${slug}`} class="post-card-link">
+  <a href={`${import.meta.env.BASE_URL}/${slug}`.replace(/\/+/g, '/')} class="post-card-link">
     <div class="post-card-content">
       <h2 class="post-card-title">
         {title}
