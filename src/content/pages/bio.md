@@ -1,28 +1,20 @@
 ---
 templateKey: bio-page
-thumbnail: /img/clay-image-1.jpg
+thumbnail: /img/portrait.jpg
 date: 2023-03-02T10:17:05.133Z
 title: Bio
 description: About the Artist
 number: 1
 pagetype:
   - main
-featuredimage: /img/clay-image-1.jpg
+featuredimage: /img/portrait.jpg
 ---
-![Artist at work](/img/clay-images-11.jpg)
+## Über die Künstlerin
 
-## The Hands Behind the Clay
+Güler Hirsch, geboren in Ankara und heute in Köln lebend, ist promovierte Keramikkünstlerin. Ihre Werke konzentrieren sich auf anthropomorphe Formen und die Darstellung der menschlichen Figur und wurden in zahlreichen nationalen und internationalen Ausstellungen präsentiert.
 
-I am a ceramic artist based in the Pacific Northwest, where the rugged coastline and dense forests inspire my work. My journey with clay began over a decade ago, first as a meditative practice and later as a lifelong obsession with form and fire.
+Neben ihrer künstlerischen Praxis ist Güler Hirsch auch wissenschaftlich tätig und bringt ihr Fachwissen in diverse Projekte ein. Sie nimmt regelmäßig an Workshops und Konferenzen teil, um den Austausch in der Keramik- und Kunstszene zu fördern. Ihre Arbeiten verbinden handwerkliche Präzision mit künstlerischem Ausdruck und haben ihr Anerkennung sowohl in der Türkei als auch international eingebracht.
 
-I work primarily with stoneware and porcelain, utilizing both wheel-throwing and hand-building techniques. My philosophy is rooted in wabi-sabi—finding beauty in the imperfect, the impermanent, and the incomplete.
+### Künstlerisches Statement
 
-![Studio shelves](/img/clay-images-12.jpg)
-
-### Process & Materials
-
-Every piece is crafted in my home studio. I formulate my own glazes using locally sourced ash and minerals, resulting in surfaces that are unique to my environment. The firing process is a collaboration with the kiln; I can guide the heat, but the flame has the final say.
-
-When I am not in the studio, you can find me hiking the trails of the Cascades or scouring the beach for interesting stones and driftwood.
-
-<a href="https://unsplash.com/@tomcrewceramics" target="_blank">Image credits - Tom Crew</a>
+"Meine Kunst erforscht die Schnittstelle von anthropomorphen Formen und keramischen Gefäßen. Während in meinen früheren Arbeiten menschliche Elemente deutlich im Vordergrund standen, drücke ich diese Themen heute subtiler aus. Inspiriert von der reichen Geschichte der Keramik verbinde ich traditionelle Techniken mit modernen Ansätzen... Meine Kunst feiert die Vielseitigkeit dieses alten Handwerks und lädt Betrachter ein, es aus einer neuen, zeitgemäßen Perspektive zu erleben."
