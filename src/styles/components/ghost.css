@@ -14,7 +14,8 @@
 
 .kg-image {
     max-width: 100%;
-    width: 100%;
+    width: auto;
+    height: auto;
 }
 
 .kg-card figcaption {
@@ -80,8 +81,9 @@
 .kg-gallery-image img {
     display: block;
     margin: 0;
-    width: 100%;
-    height: 100%;
+    max-width: 100%;
+    width: auto;
+    height: auto;
 }
 
 .kg-gallery-row:not(:first-of-type) {

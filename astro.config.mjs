@@ -4,7 +4,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://cyberhirsch.github.io',
-    base: '/Website-GulerHirsch',
+    site: 'https://gulerhirsch.com',
+    base: '/',
     integrations: [sitemap()],
 });

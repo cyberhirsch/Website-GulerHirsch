@@ -151,10 +151,11 @@ production stylesheet in assets/built/screen.css using gulp dev
 }
 
 .post-content-image img {
-  width: 100%;
+  max-width: 100%;
+  width: auto;
   height: auto;
   display: block;
-  object-fit: contain;
+  margin: 0 auto;
 }
 
 .contact-form-image {
@@ -171,6 +172,14 @@ production stylesheet in assets/built/screen.css using gulp dev
 .post-content-body {
   font-size: 1.9rem;
   line-height: 1.65em;
+}
+
+.post-content-body img {
+  display: block;
+  margin: 2vw auto;
+  max-width: 100%;
+  height: auto;
+  width: auto;
 }
 
 @media (max-width: 500px) {
@@ -368,4 +377,7 @@ img.gatsby-resp-image-image {
 
 img {
   border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+  width: auto;
 }
