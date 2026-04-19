@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agentskills.io/schema/v0.2.0/index.json",
+  "skills": [
+    {
+      "name": "View Portfolio",
+      "type": "navigation",
+      "description": "Explore the ceramic art portfolio of Güler Hirsch",
+      "url": "https://gulerhirsch.com/work"
+    },
+    {
+      "name": "Contact Artist",
+      "type": "action",
+      "description": "Send a message or inquiry to Güler Hirsch",
+      "url": "https://gulerhirsch.com/contact"
+    }
+  ]
+}

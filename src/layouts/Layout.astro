@@ -55,6 +55,33 @@ const { title, description } = Astro.props;
 
         <Footer />
 
+        <script is:inline>
+            // WebMCP Support for AI Agents
+            if (navigator.modelContext && navigator.modelContext.provideContext) {
+                navigator.modelContext.provideContext({
+                    tools: [
+                        {
+                            name: "get_portfolio_items",
+                            description: "Returns a list of available ceramic work categories",
+                            inputSchema: { type: "object", properties: {} },
+                            execute: async () => {
+                                return { content: [{ type: "text", text: "Vases, Sculptures, Commissions" }] };
+                            }
+                        },
+                        {
+                            name: "contact_artist",
+                            description: "Navigates to the contact page",
+                            inputSchema: { type: "object", properties: {} },
+                            execute: async () => {
+                                window.location.href = "/contact";
+                                return { content: [{ type: "text", text: "Navigating to contact page..." }] };
+                            }
+                        }
+                    ]
+                });
+            }
+        </script>
+
         <script>
             import { navigate } from "astro:transitions/client";
 

@@ -1,0 +1,14 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://gulerhirsch.com/",
+      "rel": "service-doc",
+      "href": "https://gulerhirsch.com/bio"
+    },
+    {
+      "anchor": "https://gulerhirsch.com/",
+      "rel": "item",
+      "href": "https://gulerhirsch.com/work"
+    }
+  ]
+}

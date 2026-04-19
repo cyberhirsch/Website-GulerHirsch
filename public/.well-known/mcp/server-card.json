@@ -1,0 +1,16 @@
+{
+  "serverInfo": {
+    "name": "Güler Hirsch Portfolio",
+    "version": "1.0.0"
+  },
+  "capabilities": {
+    "tools": {
+      "listTools": true,
+      "callTool": true
+    }
+  },
+  "transport": {
+    "type": "http",
+    "url": "https://gulerhirsch.com/api/mcp"
+  }
+}
