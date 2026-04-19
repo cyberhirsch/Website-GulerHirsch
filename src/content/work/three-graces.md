@@ -17,8 +17,9 @@ Three vases represent the Charites of Greek mythology—goddesses of beauty, gra
 
 Together, they embody radiance, joy, and growth.
 
-![3 Graces 1](/Website-GulerHirsch/img/galleries/graces/graces_01.jpg)
+![3 Graces 1](/img/galleries/graces/graces_01.jpg)
 
-![3 Graces 2](/Website-GulerHirsch/img/galleries/graces/graces_02.jpg)
+![3 Graces 2](/img/galleries/graces/graces_02.jpg)
 
-![3 Graces 3](/Website-GulerHirsch/img/galleries/graces/graces_03.jpg)
+![3 Graces 3](/img/galleries/graces/graces_03.jpg)
+

@@ -10,3 +10,4 @@ description: A curated set of large scale vessels for a private residence.
 This commission involved creating three large-scale vessels for a minimalist loft in Tribeca. The challenge was to create forms that held their own against the industrial architecture of the space.
 
 The pieces were coiled built over several weeks and fired in a reduction atmosphere to achieve a dark, metallic finish.
+

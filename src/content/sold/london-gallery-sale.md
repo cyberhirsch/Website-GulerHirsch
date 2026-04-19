@@ -10,3 +10,4 @@ description: Acquisition of the 'Blue Series' by Modern Art London.
 We are honored to have the entire "Blue Series" acquired by Modern Art London for their permanent collection. This series explored the gradients of cobalt oxide in porcelain.
 
 The pieces will be on display in the West Wing starting next month.
+

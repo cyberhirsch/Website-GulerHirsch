@@ -16,3 +16,4 @@ Beyond her artistic practice, Güler Hirsch is active in academic research, cont
 ### Artistic Statement
 
 "My art explores the intersection of anthropomorphic forms and ceramic vessels. While my earlier works placed human elements distinctly in the foreground, today I express these themes more subtly. Inspired by the rich history of ceramics, I combine traditional techniques with modern approaches... My art celebrates the versatility of this ancient craft and invites viewers to experience it from a new, contemporary perspective."
+
